@@ -3,7 +3,7 @@ Cache based side-channel attack in RISC-V.
 
 ## About 
 
-The repository was tested on a RISC-V processor SiFive m74.
+Graduation project. The repository was tested on a RISC-V processor SiFive m74.
 
 ## Usage
 
