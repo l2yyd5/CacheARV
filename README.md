@@ -7,6 +7,8 @@ Graduation project. The repository was tested on a RISC-V processor SiFive m74.
 
 ## Usage
 
+If you want to run Flush-Reload, you need to modify openSBI to implement Flush using CFLUSH.D.L1 opcode
+
 ```shell
 mkdir build
 cd build
